@@ -7,8 +7,8 @@
 Submission By:<br>
 1. Ankit Kumar - 16030720004<br>
 2. Rugved Mone - 16030720007<br>
-                                                                                                4. Shamal Save - 16030720012<br>
-                                                                                                3. Mrunal Shetty - 16030720014<br></p>
+                                                                                                3. Shamal Save - 16030720012<br>
+                                                                                                4. Mrunal Shetty - 16030720014<br></p>
                                                                                                 
 
 The application is developed in C# with Microsoft Azure connectivity.
